@@ -75,6 +75,18 @@
 
 ### 📊 Визуализация
 ![Brazil Revenue Map](./outputs/charts/brazil_revenue_map.png)
+
+https://github.com/Vadimienne/data-analyst-portfolio/blob/main/brazilian-ecommerce/interactive/rfm_segments.html
+🔗 [Открыть интерактивную карту](https://github.com/Vadimienne/data-analyst-portfolio/blob/main/brazilian-ecommerce/interactive/rfm_segments.html)
+
+<iframe 
+  src="https://github.com/Vadimienne/data-analyst-portfolio/blob/main/brazilian-ecommerce/interactive/rfm_segments.html" 
+  width="100%" 
+  height="700px" 
+  frameborder="0">
+</iframe>
+
+
 *[🔗 Интерактивная карта](./outputs/interactive/brazil_revenue_map.html)*
 
 ### ✅ Ключевые инсайты
