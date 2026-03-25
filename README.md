@@ -13,14 +13,13 @@
 
 ## 🗂️ Оглавление
 
-| № | Задача | Бизнес-вопрос | Статус | Ссылка на код |
+| № | Задача | Бизнес-вопрос  | Ссылка на код |
 |---|--------|--------------|--------|--------------|
-| 1 | 🔍 Профилирование данных | «Что у нас за данные? Есть ли проблемы с качеством?» | ✅ | [`01_data_profiling.ipynb`](./notebooks/01_data_profiling.ipynb) |
-| 2 | 🚚 Доставка → Отзывы | «Как время доставки влияет на рейтинг?» | ✅ | [`02_delivery_analysis.ipynb`](./notebooks/02_delivery_analysis.ipynb) |
-| 3 | 🗺️ Гео-анализ | «Где самые сильные продажи и проблемы?» | ✅ | [`03_geo_analysis.ipynb`](./notebooks/03_geo_analysis.ipynb) |
-| 4 | 💰 LTV + RFM | «Кто наши ценные клиенты? Сколько они приносят?» | ✅ | [`04_ltv_rfm.ipynb`](./notebooks/04_ltv_rfm.ipynb) |
-| 5 | 📦 ABC-анализ товаров | «Какие категории приносят 80% выручки?» | ✅ | [`05_product_analysis.ipynb`](./notebooks/05_product_analysis.ipynb) |
-| 6 | 📊 Executive Summary | «Какие 3 рекомендации дать руководству?» | 🔲 | [`06_final_dashboard.ipynb`](./notebooks/06_final_dashboard.ipynb) |
+| 1 | 🔍 Профилирование данных | «Что у нас за данные? Есть ли проблемы с качеством?»  | [`EC Task 1 Profiling.ipynb`](./notebooks/EC%20Task%201%20Profiling.ipynb) |
+| 2 | 🚚 Доставка → Отзывы | «Как время доставки влияет на рейтинг?»  | [`02_delivery_analysis.ipynb`](./notebooks/02_delivery_analysis.ipynb) |
+| 3 | 🗺️ Гео-анализ | «Где самые сильные продажи и проблемы?»  | [`03_geo_analysis.ipynb`](./notebooks/03_geo_analysis.ipynb) |
+| 4 | 💰 LTV + RFM | «Кто наши ценные клиенты? Сколько они приносят?» | [`04_ltv_rfm.ipynb`](./notebooks/04_ltv_rfm.ipynb) |
+| 5 | 📦 ABC-анализ товаров | «Какие категории приносят 80% выручки?»  | [`05_product_analysis.ipynb`](./notebooks/05_product_analysis.ipynb) |
 
 ---
 
